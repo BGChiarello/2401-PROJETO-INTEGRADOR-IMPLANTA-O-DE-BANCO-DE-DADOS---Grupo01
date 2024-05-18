@@ -35,7 +35,7 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 
 ### Colaboradores (Grupo 1)
 Bruno Giacomelli Chiarello  
-Kevin Santos de Souza Parreira 
+Kevin Santos de Souza Parreira  
 Marcio Vianna Júnior  
 Priscila Sanches Januário  
 Stefani Dal Puppo  
