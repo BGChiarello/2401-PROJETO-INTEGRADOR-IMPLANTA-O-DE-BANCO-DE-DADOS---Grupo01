@@ -30,7 +30,7 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 **Acesse o projeto completo [aqui](http://github.com/blablabla)**  
 <br>
 
-**Assista ao vídeo de demonstração [aqui](Grupo01_VideoApresentacao.mp4)**  
+**Assista ao vídeo de demonstração [aqui]([Grupo01_VideoApresentacao.mp4](https://github.com/BGChiarello/2401-PROJETO-INTEGRADOR-IMPLANTA-O-DE-BANCO-DE-DADOS---Grupo01/blob/main/V%C3%ADdeo.mp4))**  
 <br>
 
 ### Colaboradores (Grupo 1)
