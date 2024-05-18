@@ -15,7 +15,7 @@ Caso opte pela utilização do MySQL Workbench, vá na opção _File_, _Open SQL
 Por linha de comando, siga o padrão:
 <code> mysql -u root -p senha seu_banco_de_dados < C:\caminho\para\seu\arquivo.sql </code>  
 <br>
-Para teste do banco de dados disponibilizamos um ![arquivo DML](ScriptsDML.sql).  
+Para teste do banco de dados disponibilizamos um ![arquivo DML](Grupo01_ScriptsDML.sql).  
 Siga as instruções acima, lembrando de referenciar o nome do seu banco de dados em USE DATABASE nome_BD.
 <br>
 <br>
@@ -30,7 +30,7 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 **Acesse o projeto completo ![aqui](http://github.com/blablabla)**  
 <br>
 
-**Assista ao vídeo de demonstração ![aqui](VídeoApresentação.mp4)**  
+**Assista ao vídeo de demonstração ![aqui](Grupo01_VideoApresentacao.mp4)**  
 <br>
 
 ### Colaboradores (Grupo 1)
