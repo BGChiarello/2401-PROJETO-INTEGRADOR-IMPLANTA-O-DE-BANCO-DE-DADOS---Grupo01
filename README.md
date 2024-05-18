@@ -30,7 +30,7 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 **Acesse o projeto completo ![aqui](http://github.com/blablabla)**  
 <br>
 
-**Assista ao vídeo de demonstração ![aqui](http://github.com/blablabla)**  
+**Assista ao vídeo de demonstração ![aqui](Vídeo Apresentação.mp4)**  
 <br>
 
 ### Colaboradores (Grupo 1)
