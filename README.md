@@ -35,9 +35,13 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 
 ### Colaboradores (Grupo 1)
 Bruno Giacomelli Chiarello  
-Kevin Santos de Souza Parreira  
-Leandro Normandia Tavares  
+Kevin Santos de Souza Parreira 
 Marcio Vianna Júnior  
 Priscila Sanches Januário  
 Stefani Dal Puppo  
 Tatiana Roman  
+
+____________________________________
+*O colega Leandro Normandia Tavares, no dia 18/05 informou que não tinha concluído sua etapa e que não iria fazer, informou ao colega Márcio que iria trancar o curso e que poderiam tirar o nome dele do trabalho.
+
+
