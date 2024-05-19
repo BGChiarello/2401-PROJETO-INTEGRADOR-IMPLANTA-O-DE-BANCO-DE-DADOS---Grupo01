@@ -13,7 +13,7 @@ Para melhor visualização e manipulação dos dados aconselha-se o uso do MySQL
 Baixe o [arquivo DDL](Grupo01_DDL.sql). Ele contém as instruções e comandos para definição da estrutura do banco de dados.   
 Caso opte pela utilização do MySQL Workbench, vá na opção _File_, _Open SQL Script_, e escolha o arquivo baixado. Execute as intruções.  
 Por linha de comando, siga o padrão:
-<code> mysql -u root -p senha seu_banco_de_dados < C:\caminho\para\seu\arquivo.sql </code>  
+<code> mysql -u root -p senha seu_banco_de_dados < C:\caminho\para\seu\Grupo01_DDL.sql </code>  
 <br>
 Para teste do banco de dados disponibilizamos um [arquivo DML](Grupo01_ScriptsDML.sql).  
 Siga as instruções acima, lembrando de referenciar o nome do seu banco de dados em USE DATABASE nome_BD.
