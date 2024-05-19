@@ -20,6 +20,12 @@ Siga as instruções acima, lembrando de referenciar o nome do seu banco de dado
 <br>
 <br>
 
+_**Acesse o projeto completo [aqui](http://github.com/blablabla)**_ 
+<br>
+
+_**Assista ao vídeo de demonstração [aqui](https://drive.google.com/file/d/1AFvvSHpcgDdDpOgYTPcLTkLbR0GAQoas/view?usp=sharing)**_  
+<br>
+
 ## Diagrama de Entidade-Relacionamento
 Para melhor visualização da estrutura do BD, segue abaixo a representação de suas entidades e seus relacionamentos.  
 <br>
@@ -27,11 +33,6 @@ Para melhor visualização da estrutura do BD, segue abaixo a representação de
 
 <br>
 
-**Acesse o projeto completo [aqui](http://github.com/blablabla)**  
-<br>
-
-**Assista ao vídeo de demonstração [aqui](https://drive.google.com/file/d/1AFvvSHpcgDdDpOgYTPcLTkLbR0GAQoas/view?usp=sharing)**  
-<br>
 
 ### Colaboradores (Grupo 1)
 Bruno Giacomelli Chiarello  
@@ -42,6 +43,6 @@ Stefani Dal Puppo
 Tatiana Roman  
 
 ____________________________________
-*O colega Leandro Normandia Tavares, no dia 18/05 informou que não tinha concluído sua etapa e que não iria fazer, informou ao colega Márcio que iria trancar o curso e que poderiam tirar o nome dele do trabalho.
+*O colega Leandro Normandia Tavares, no dia 18/05 informou que não tinha concluído sua etapa e que não a iria fazer, informou ao colega Márcio que iria trancar o curso e que poderiam tirar o nome dele do trabalho.
 
 
