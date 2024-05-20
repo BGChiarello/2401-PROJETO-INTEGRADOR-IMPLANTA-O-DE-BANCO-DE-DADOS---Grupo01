@@ -20,7 +20,7 @@ Siga as instruções acima, lembrando de referenciar o nome do seu banco de dado
 <br>
 <br>
 
-_**Acesse o projeto completo [aqui](http://github.com/blablabla)**_ 
+_**Acesse o projeto completo [aqui](Grupo01_Rev03.pdf)**_ 
 <br>
 
 _**Assista ao vídeo de demonstração [aqui](https://drive.google.com/file/d/1AFvvSHpcgDdDpOgYTPcLTkLbR0GAQoas/view?usp=sharing)**_  
