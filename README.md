@@ -45,4 +45,3 @@ Tatiana Roman
 ____________________________________
 *O colega Leandro Normandia Tavares, no dia 18/05 informou que não tinha concluído sua etapa e que não a iria fazer, informou ao colega Márcio que iria trancar o curso e que poderiam tirar o nome dele do trabalho.
 
-
